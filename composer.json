@@ -1,5 +1,5 @@
 {
-  "name": "wufly/logstash",
+  "name": "palmbuy/hyper-logstash",
   "description": "Log formatting to facilitate logstash collection",
   "type": "library",
   "license": "MIT",

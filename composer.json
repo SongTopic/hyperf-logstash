@@ -37,7 +37,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Test\\Wufly\\": "tests/"
+      "Test\\Palmbuy\\": "tests/"
     }
   }
 }

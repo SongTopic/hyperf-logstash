@@ -1,5 +1,5 @@
 {
-  "name": "palmbuy/hyper-logstash",
+  "name": "palmbuy/hyperf-logstash",
   "description": "Log formatting to facilitate logstash collection",
   "type": "library",
   "license": "MIT",

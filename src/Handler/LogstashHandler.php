@@ -9,12 +9,12 @@
 // | Author: wufly <wfxykzd@163.com>
 // +----------------------------------------------------------------------
 
-namespace Wufly\Handler;
+namespace Palmbuy\Handler;
 
 use Illuminate\Foundation\Exceptions\Handler;
 use Exception;
 use Ramsey\Uuid\Uuid;
-use Wufly\Logstash;
+use Palmbuy\Logstash;
 
 class LogstashHandler extends Handler
 {

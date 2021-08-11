@@ -5,10 +5,10 @@
  * Date: 2020/6/30 20:37
  */
 
-namespace Test\Wufly;
+namespace Test\Palmbuy;
 
 use PHPUnit\Framework\TestCase;
-use Wufly\Logstash;
+use Palmbuy\Logstash;
 
 class LogstashTest extends TestCase
 {

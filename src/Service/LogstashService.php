@@ -9,7 +9,7 @@
 // | Author: wufly <wfxykzd@163.com>
 // +----------------------------------------------------------------------
 
-namespace Wufly\Service;
+namespace Palmbuy\Service;
 
 use Monolog\Formatter\LogstashFormatter;
 use Monolog\Handler\RotatingFileHandler;

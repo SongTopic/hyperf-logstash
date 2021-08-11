@@ -8,9 +8,9 @@
 // +----------------------------------------------------------------------
 // | Author: wufly <wfxykzd@163.com>
 // +----------------------------------------------------------------------
-namespace Wufly;
+namespace Palmbuy;
 
-use Wufly\Logger\LogstashLogger;
+use Palmbuy\Logger\LogstashLogger;
 
 
 class Logstash
@@ -28,7 +28,7 @@ class Logstash
     /**
      * @function
      * @param $channel
-     * @return string
+     * @return LogstashLogger|string
      */
     public static function channel($channel)
     {

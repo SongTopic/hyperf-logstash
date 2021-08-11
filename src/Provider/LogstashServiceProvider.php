@@ -1,6 +1,6 @@
 <?php
 
-namespace Wufly\Provider;
+namespace Palmbuy\Provider;
 
 use Illuminate\Support\ServiceProvider;
 
